@@ -1,10 +1,10 @@
 # 🧠 Common Table Expressions (CTEs) in MySQL
 
 <p align="center">
-  <img src="https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.png" alt="MySQL CTEs" />
+  <img src="https://github.com/Akshatha435/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.png" alt="MySQL CTEs" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.sql)
+🔗 [View SQL File on GitHub](https://github.com/Akshatha435/SQL/blob/main/11.%20CTE%20%5BCommon%20Table%20Expression%5D/CTE.sql)
 
 ---
 
