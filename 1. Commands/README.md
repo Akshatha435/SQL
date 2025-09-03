@@ -1,7 +1,7 @@
 # 🧠 Commands in MySQL
 
 <p align="center">
-  <img src="https://github.com/jeevan499/SQL/blob/main/1.%20Commands/commands%20in%20MySQL.jpg" alt="SQL Banner" />
+  <img src="https://github.com/Akshatha435/SQL/blob/main/1.%20Commands/Commands.jpg" alt="SQL Banner" />
 </p>
 
 
