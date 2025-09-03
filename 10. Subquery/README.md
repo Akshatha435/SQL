@@ -1,10 +1,10 @@
 # 🧠 Subqueries in MySQL
 
 <p align="center">
-  <img src="https://github.com/jeevan499/SQL/blob/main/10.%20Subquery/Subquery.jpg" />
+  <img src="https://github.com/Akshatha435/SQL/blob/main/10.%20Subquery/Subquery.jpg" />
 </p>
 
-🔗 [View SQL File on GitHub](https://github.com/jeevan499/SQL/blob/main/10.%20Subquery/Subquery.sql)
+🔗 [View SQL File on GitHub](https://github.com/Akshatha435/SQL/blob/main/10.%20Subquery/Subquery.sql)
 
 ---
 
