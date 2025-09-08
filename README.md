@@ -35,6 +35,8 @@ The dataset includes three tables:
 ## 🗂️ Project Structure  
 SQL_Projects/
 ├── DannysDiner.sql # SQL queries & answers
+
+
 └── README.md # Project documentation 
 
 
