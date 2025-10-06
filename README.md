@@ -79,11 +79,6 @@ SQL_Projects/
 
 ---
 
-## 📌 Reference  
-- 📂 Case Study Source: [8 Week SQL Challenge – Case Study #1](https://8weeksqlchallenge.com/case-study-1/)  
-- 🙏 Inspired by Danny Ma’s SQL learning community.  
-
----
 
 ## ✨ About This Project  
 This project showcases my ability to:  
