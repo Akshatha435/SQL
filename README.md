@@ -20,17 +20,6 @@ The dataset includes three tables:
 - **`menu`** – items available and their prices  
 - **`members`** – information on loyalty program enrollment  
 
----
-
-## ❓ Business Questions Solved  
-✔️ What is the total amount spent by each customer?  
-✔️ How many days has each customer visited the restaurant?  
-✔️ What was the first item purchased by each customer after joining the loyalty program?  
-✔️ What is the most purchased item on the menu, and who are the top customers for it?  
-✔️ Which items did each customer purchase after becoming a member?  
-✔️ What are the spending patterns before vs. after membership?  
-
----
 
 ## 🗂️ Project Structure  
 SQL_Projects/
@@ -67,24 +56,4 @@ SQL_Projects/
 🔹 **Ramen** is the most popular menu item.  
 🔹 Loyalty members tend to try new items after joining, showing increased engagement.  
 🔹 Certain customers became more frequent visitors once enrolled in the program.  
-
----
-
-## 📸 Sample Output (Example)  
-| customer_id | total_spent | total_visits | favorite_item |
-|-------------|-------------|---------------|---------------|
-| A           | $76         | 5             | Ramen         |
-| B           | $74         | 6             | Curry         |
-| C           | $36         | 2             | Sushi         |
-
----
-
-
-## ✨ About This Project  
-This project showcases my ability to:  
-- Write **clean, modular SQL queries**  
-- Transform **business questions into SQL logic**  
-- Present **data insights in a business-friendly format**  
-
----
-
+ |
